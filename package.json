@@ -1,7 +1,6 @@
 {
   "name": "focalator-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -20,5 +19,14 @@
     "express": "^4.17.1",
     "knex": "^0.21.6",
     "pg": "^8.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcajo/focalator-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elcajo/focalator-api/issues"
+  },
+  "homepage": "https://github.com/elcajo/focalator-api#readme",
+  "description": ""
 }
